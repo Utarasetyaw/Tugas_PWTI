@@ -75,7 +75,6 @@
               </div>
             </div>
             <div class="simple-footer">
-              Copyright &copy; TokBuk 2020
             </div>
           </div>
         </div>
